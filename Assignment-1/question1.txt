@@ -1,0 +1,8 @@
+Enrollment: 2302031030121
+Krish Soni, IT4 BATCH2
+Steps Of GITHUB:
+1: Downloaded git from offical website and installed.
+2: Created folder of Assignment-1 and 2.
+3: Created a repo.
+4: Initialised the git and added remote to my created a folder.
+5: Pushed the files to repo.
